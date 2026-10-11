@@ -1,0 +1,4 @@
+PyQt6>=6.0.0
+google-genai>=0.2.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
