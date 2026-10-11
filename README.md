@@ -27,5 +27,5 @@ An AI-powered, voice-controlled equatorial telescope mount interface. K-Star Int
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/k-star-interactor.git](https://github.com/yourusername/k-star-interactor.git)
+   git clone [https://github.com/yourusername/k-star-interactor.git](https://github.com/somyama4753l-lang/k-star-interactor.git)
    cd k-star-interactor
